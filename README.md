@@ -1,4 +1,4 @@
-# greedyAlgorithm
+# C++ Greedy Algorithm
 A C++ code for greedy algorithm.
 
 You can build the project using the following commands:
