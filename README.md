@@ -1,5 +1,5 @@
 # C++ Greedy Algorithm
-A C++ code for greedy algorithm.
+A C++ project for greedy algorithm.
 
 You can build the project using the following commands:
 cd path/to/greedyAlgorithm # This should be the path to exercise1 in your system
